@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
-    <string name="hello_message">Hello World!</string>
+    <string name="app_name">Lab 2</string>
+    <string name="hello_message">Hello world</string>
+    <string name="main_message">Look at my GUI!</string>
+
+    <string name="ButtonText1">CLICK HERE</string>
     <string name="ButtonText">I\’m a button</string>
+
+    <string name="CheckText">Check this out!</string>
+
+    <string name="ImageText">Switch ON/OFF</string>
+
+    <string name="EditText">type here</string>
 
 </resources>
