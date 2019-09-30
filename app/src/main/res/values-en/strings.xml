@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
-    <string name="hello_message">Hello World!</string>
-    <string name="ButtonText">I\’m a button</string>
-
+    <string name="app_name">Lab 3</string>
+    <string name="email_text">Enter your email address: </string>
+    <string name="enter_email">Type your email here</string>
+    <string name="password_text">Type your password: </string>
+    <string name="enter_password">" " </string>
+    <string name="logIn">LOGIN</string>
+    <string name="yourProfile">Your profile</string>
+    <string name="yourName">Your name: </string>
+    <string name="typeName">Enter your name</string>
+    <string name="yourPic">Your picture: </string>
+    <string name="yourEmail">Your email: </string>
+    <string name="email2">Enter your email</string>
+    <string name="click_text">Click the button above to take a picture</string>
 </resources>
